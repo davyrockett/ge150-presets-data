@@ -35,20 +35,36 @@
       "updatedAt": "2026-10-07T23:31:42.424Z"
     },
     "40A": {
-      "name": "Dry Dirt",
-      "updatedAt": "2026-10-07T23:34:44.010Z"
+      "deleted": true,
+      "updatedAt": "2026-10-07T23:36:37.619Z"
     },
     "40B": {
-      "name": "Distortion",
-      "updatedAt": "2026-10-07T23:34:44.010Z"
+      "deleted": true,
+      "updatedAt": "2026-10-07T23:36:37.619Z"
     },
     "40C": {
-      "name": "Swell",
-      "updatedAt": "2026-10-07T23:34:44.010Z"
+      "deleted": true,
+      "updatedAt": "2026-10-07T23:36:37.619Z"
     },
     "40D": {
+      "deleted": true,
+      "updatedAt": "2026-10-07T23:36:37.619Z"
+    },
+    "50A": {
+      "name": "Dry Dirt",
+      "updatedAt": "2026-10-07T23:36:37.619Z"
+    },
+    "50B": {
+      "name": "Distortion",
+      "updatedAt": "2026-10-07T23:36:37.619Z"
+    },
+    "50C": {
+      "name": "Swell",
+      "updatedAt": "2026-10-07T23:36:37.619Z"
+    },
+    "50D": {
       "name": "Dist Del",
-      "updatedAt": "2026-10-07T23:34:44.010Z"
+      "updatedAt": "2026-10-07T23:36:37.619Z"
     }
   }
 }

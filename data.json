@@ -19,12 +19,12 @@
       "updatedAt": "2001-01-01T00:00:00.000Z"
     },
     "3B": {
-      "deleted": true,
-      "updatedAt": "2026-10-07T23:30:12.145Z"
+      "name": "Acoustic",
+      "updatedAt": "2026-10-07T23:30:15.276Z"
     },
     "4A": {
-      "name": "Acoustic",
-      "updatedAt": "2026-10-07T23:30:12.145Z"
+      "deleted": true,
+      "updatedAt": "2026-10-07T23:30:15.276Z"
     }
   }
 }

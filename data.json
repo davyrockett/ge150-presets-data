@@ -33,6 +33,22 @@
     "2B": {
       "deleted": true,
       "updatedAt": "2026-10-07T23:31:42.424Z"
+    },
+    "40A": {
+      "name": "Dry Dirt",
+      "updatedAt": "2026-10-07T23:34:44.010Z"
+    },
+    "40B": {
+      "name": "Distortion",
+      "updatedAt": "2026-10-07T23:34:44.010Z"
+    },
+    "40C": {
+      "name": "Swell",
+      "updatedAt": "2026-10-07T23:34:44.010Z"
+    },
+    "40D": {
+      "name": "Dist Del",
+      "updatedAt": "2026-10-07T23:34:44.010Z"
     }
   }
 }

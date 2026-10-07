@@ -3,8 +3,8 @@
   "format": 1,
   "slots": {
     "2A": {
-      "deleted": true,
-      "updatedAt": "2026-10-07T23:30:03.856Z"
+      "name": "Acoustic",
+      "updatedAt": "2026-10-07T23:30:27.180Z"
     },
     "1A": {
       "name": "Dry Dirt",
@@ -19,8 +19,8 @@
       "updatedAt": "2001-01-01T00:00:00.000Z"
     },
     "3B": {
-      "name": "Acoustic",
-      "updatedAt": "2026-10-07T23:30:15.276Z"
+      "deleted": true,
+      "updatedAt": "2026-10-07T23:30:27.180Z"
     },
     "4A": {
       "deleted": true,

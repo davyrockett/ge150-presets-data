@@ -7,8 +7,8 @@
       "updatedAt": "2026-10-07T23:31:27.862Z"
     },
     "1A": {
-      "deleted": true,
-      "updatedAt": "2026-10-07T23:31:40.396Z"
+      "name": "Dry Dirt",
+      "updatedAt": "2026-10-07T23:31:42.424Z"
     },
     "1B": {
       "name": "Distortion",
@@ -31,8 +31,8 @@
       "updatedAt": "2026-10-07T23:31:15.348Z"
     },
     "2B": {
-      "name": "Dry Dirt",
-      "updatedAt": "2026-10-07T23:31:40.396Z"
+      "deleted": true,
+      "updatedAt": "2026-10-07T23:31:42.424Z"
     }
   }
 }

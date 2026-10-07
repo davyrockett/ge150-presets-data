@@ -1,0 +1,22 @@
+{
+  "app": "ge150-presets",
+  "format": 1,
+  "slots": {
+    "2A": {
+      "name": "Acoustic",
+      "updatedAt": "2001-01-01T00:00:00.000Z"
+    },
+    "1A": {
+      "name": "Dry Dirt",
+      "updatedAt": "2001-01-01T00:00:00.000Z"
+    },
+    "1B": {
+      "name": "Distortion",
+      "updatedAt": "2001-01-01T00:00:00.000Z"
+    },
+    "1C": {
+      "name": "Swell",
+      "updatedAt": "2001-01-01T00:00:00.000Z"
+    }
+  }
+}

@@ -33,7 +33,14 @@
     },
     "1C": {
       "name": "Distortion",
-      "updatedAt": "2026-10-09T03:46:24.553Z"
+      "modules": [
+        "ds",
+        "amp",
+        "ns",
+        "eq",
+        "rev"
+      ],
+      "updatedAt": "2026-10-09T22:38:23.646Z"
     },
     "3B": {
       "deleted": true,

@@ -8,7 +8,15 @@
     },
     "1A": {
       "name": "Dry Dirt",
-      "updatedAt": "2026-10-07T23:31:42.424Z"
+      "modules": [
+        "fx",
+        "ds",
+        "amp",
+        "ns",
+        "eq",
+        "rev"
+      ],
+      "updatedAt": "2026-10-09T03:48:37.107Z"
     },
     "1B": {
       "name": "Swell",

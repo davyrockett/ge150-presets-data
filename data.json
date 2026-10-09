@@ -20,7 +20,16 @@
     },
     "1B": {
       "name": "Swell",
-      "updatedAt": "2026-10-09T03:46:24.553Z"
+      "modules": [
+        "fx",
+        "amp",
+        "ns",
+        "eq",
+        "mod",
+        "dly",
+        "rev"
+      ],
+      "updatedAt": "2026-10-09T22:38:05.969Z"
     },
     "1C": {
       "name": "Distortion",

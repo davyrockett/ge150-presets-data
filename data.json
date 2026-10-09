@@ -52,7 +52,16 @@
     },
     "1D": {
       "name": "Dist Del",
-      "updatedAt": "2026-10-07T23:31:15.348Z"
+      "modules": [
+        "fx",
+        "ds",
+        "amp",
+        "ns",
+        "eq",
+        "dly",
+        "rev"
+      ],
+      "updatedAt": "2026-10-09T22:38:36.412Z"
     },
     "2B": {
       "name": "Wah",
